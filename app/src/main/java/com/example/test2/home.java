@@ -148,7 +148,7 @@ public class home extends AppCompatActivity {
         public int getCount() {
             return list.size();
         }
-
+//gfhtdhjdntdhdg
         @Nullable
         @Override
         public Listitem getItem(int position) {
